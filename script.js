@@ -78,5 +78,5 @@ function updateRepos(data){
     })
 }
 
-getUserData(url + "shomik-das");
-getUserRepos(url + "shomik-das" + "/repos");
+ getUserData(url + "shomik-das");
+// getUserRepos(url + "shomik-das" + "/repos");
