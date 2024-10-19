@@ -67,6 +67,7 @@ async function getUserRepos(gitUrl) {
 function updateRepos(data){
     console.log(data);
     let repoContainer = get("repoContainer");
+    repoContainer.innerHTML = "";
     data.forEach((repo) => {
         let repoDiv = document.createElement("div");
         repoDiv.className = "repo";
