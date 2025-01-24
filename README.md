@@ -1,6 +1,6 @@
 # DevDetective
 
-![DevDetective Project](/Screenshot 2025-01-25 002900.png)
+![DevDetective Project](./Screenshot%202025-01-25%20002900.png)
 
 ## Overview
 DevDetective is a web application that allows users to search for GitHub profiles by entering a username. It fetches GitHub user data using the GitHub API (https://api.github.com/users/octocat), including repositories, followers, and a bio.
